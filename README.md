@@ -26,3 +26,6 @@ git clone https://github.com/yourusername/gymbro.git
 cd gymbro
 npm install
 npm start
+
+👨‍💻 Author
+Developed with dedication by P S Rakesh
